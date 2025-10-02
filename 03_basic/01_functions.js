@@ -2,7 +2,7 @@
 
 function printName() {
     console.log("L");
-addTwoNumbers(10, 20);    console.log("U");
+    console.log("U");
     console.log("K");
     console.log("M");
     console.log("A");
